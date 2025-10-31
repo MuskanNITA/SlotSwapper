@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: "https://slotswapper-7y9v.onrender.com"
+  baseURL: "https://slotswapper-7y9v.onrender.com/api"
 });
 
 export function setAuthToken(token) {
