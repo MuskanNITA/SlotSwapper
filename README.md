@@ -230,5 +230,6 @@ You are free to review and test it. All rights reserved © Muskan Gupta 2025.
 
 
 
-Would you like me to also generate a **Postman collection export (`SlotSwapper.postman_collection.json`)** so you can upload it to GitHub too?
-It’ll include all API endpoints with example bodies (signup, login, events, swap-request, swap-response).
+https://github.com/user-attachments/assets/72537db3-6421-4cd2-b585-1469a7531010
+
+
